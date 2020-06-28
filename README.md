@@ -21,6 +21,13 @@ kwin_x11 --replace &
 To return to the default configuration, delete the folder and restart kwin with the aforementioned command
 ```
 
+#### Images
+![image](https://raw.githubusercontent.com/adhec/kde-aurorae-tweaks/master/image_right_a.png)
+
+![image](https://raw.githubusercontent.com/adhec/kde-aurorae-tweaks/master/image_right_b.png)
+
+
+
 ### Coffee
 
 If you enjoy my content, please consider supporting what I do: 
